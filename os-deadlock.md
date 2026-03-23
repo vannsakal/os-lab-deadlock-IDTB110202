@@ -1,17 +1,15 @@
 
 Level 1:
-![[lvl1.png]]
+![A description of the image](lvl1.png)
 
 Level 3:
-![[lvl3.png]]
-
+![A description of the image](lvl3.png)
 
 Level 4:
 Beta
-![[lvl4-beta.png]]
+![A description of the image](lvl4-beta.png)
 Alpha
-![[lvl4-alpha.png]]
-
+![A description of the image](lvl4-alpha.png)
 
 ## 🔹 Level 1: Virtual Vault Provisioning
 
